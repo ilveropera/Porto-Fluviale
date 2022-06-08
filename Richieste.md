@@ -3,7 +3,7 @@ Parco solare sul terrazzo, recupero acqua piovana (terrazze e pensiline) per sca
 
 Progetto edilizio (as built) disponibile e OPEN SOURCE per facilitare manutenzione futura e sostituzioni.
 
-Manutenzione impianti smart e collegata a ente che se ne occupa.
+Manutenzione impianti privati e comuni smart e collegata a ente che se ne occupa.
 
 Informazioni su sostenibilità nell’atrio.
 
@@ -16,6 +16,8 @@ Infissi che rispecchiano il disegno originale, antirumore (sopratutto verso stra
 Al piano terra: bagni genderless, accessibili, facili da pulire e mantenere
 
 Gestione dei rifiuti prima-durante-dopo il cantiere.
+
+Programma di turnazione.
 
 “Autogestione quale forma ordinaria e diretta di gestione da parte degli assegnatari” per la manutenzione ordinaria.
 
