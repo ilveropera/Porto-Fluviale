@@ -1,15 +1,15 @@
 NZEB: Edificio a energia quasi zero; 
-Parco solare sul terrazzo, recupero acqua piovana (terrazze e pensiline) per scarico WC e irrigazione, geotermico (sfruttare il calore naturale del sottosuolo per il riscaldamento/raffrescamento degli edifici).
+Parco solare sul terrazzo, recupero acqua piovana (terrazze e pensiline) per scarico WC e irrigazione, impianto geotermico (sfruttare il calore naturale del sottosuolo per il riscaldamento/raffrescamento degli edifici).
 
-Progetto edilizio (as built) disponibile e OPEN SOURCE (Aravena) per facilitare manutenzione futura e sostituzioni.
+Progetto edilizio (as built) disponibile e OPEN SOURCE per facilitare manutenzione futura e sostituzioni.
 
 Manutenzione impianti smart e collegata a ente che se ne occupa.
 
 Informazioni su sostenibilità nell’atrio.
 
-Materiali durevoli.
+Materiali buoni per gli esseri viventi e durevoli.
 
-Pareti alle quali poter appendere scaffali. 
+Pareti alle quali poter appendere scaffali.
 
 Infissi che rispecchiano il disegno originale, antirumore (sopratutto verso strade carrabili e ferrovia)
 
