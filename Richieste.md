@@ -1,4 +1,5 @@
-NZEB: Edificio a energia quasi zero; Parco solare sul terrazzo, recupero acqua piovana (terrazze e pensiline) per scarico WC e irrigazione, geotermico (sfruttare il calore naturale del sottosuolo per il riscaldamento/raffrescamento degli edifici).
+NZEB: Edificio a energia quasi zero; 
+Parco solare sul terrazzo, recupero acqua piovana (terrazze e pensiline) per scarico WC e irrigazione, geotermico (sfruttare il calore naturale del sottosuolo per il riscaldamento/raffrescamento degli edifici).
 
 Progetto edilizio (as built) disponibile e OPEN SOURCE (Aravena) per facilitare manutenzione futura e sostituzioni.
 
@@ -22,4 +23,4 @@ Riutilizzare il più possibile i materiali, sanitari, impianti tecnologici per d
 
 [...]
 
-Ogni intervento deve essere visto con le lenti dell’economia circolare, collaborativa e sostenibile
+Ogni intervento deve essere visto con le lenti dell’economia circolare, collaborativa e sostenibile.
