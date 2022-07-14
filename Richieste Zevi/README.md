@@ -1,10 +1,20 @@
-Ogni intervento deve essere visto con le lenti dell’economia circolare, collaborativa e sostenibile.
+Noi siamo gli e le abitanti di Porto Fluviale Occupato, 53 famiglie in emergenza abitativa e 6 laboratori aperti alla città. Siamo il Coordinamento Cittadino di Lotta per la Casa.
 
-Bando speciale
+Da molto tempo abbiamo avviato la lotta per recupero edilizio della nostra casa e dal 2021 abbiamo iniziato a lavorare a strettissimo contatto con le tre Università di Roma e altre istituzioni per la riuscita di questo sogno.
 
-Turnazione: presidio al cantiere, continuità progettuale dei lab, contenitore (luogo dove accogliere temporaneamente i nuclei durante il periodo del cantiere) nel territorio
+Siamo sempre stati presenti, attivi ed essenziali durante le fasi decisionali programmatiche e progettuali del progetto presentato per il bando PINQuA.
 
-Gestione residenze e spazi dei laboratori: “Autogestione quale forma ordinaria e diretta di gestione da parte degli assegnatari” per la manutenzione ordinaria. (ATER)
+Pretendiamo quindi un dialogo su i seguenti punti, molti già specificati e fondamentali per progetto consegnato al ministero e vincitore.
+
+Inoltre pretendiamo che tutto il processo futuro sia visto con le lenti dell’economia circolare, collaborativa e sostenibile.
+
+Bando speciale: Il riconoscimento dello stato di emergenza abitativa e la conseguente attribuzione di una residenza di taglia adeguata ad ogni nucleo familiare all'interno dello stock conseguente al progetto di recupero.
+
+Turnazione: Durante il cantiere e' necessario un presidio di abitanti all'interno di Porto Fluviale: il progetto deve funzionare per fasi. Eventuali nuclei devono essere temporaneamente spostati in degli alloggi adeguati e nel territorio per assicurare la continuità scolastica e lavorativa.
+Deve essere assicurata la continuità progettuale dei laboratori presenti.
+
+Deve essere accordata la modalità di funzionamento della governace interna dei residenti, laboratori e il loro rapporto con l'amministrazione pubblica.
+
 
 Progettazione innovativa: 
 
